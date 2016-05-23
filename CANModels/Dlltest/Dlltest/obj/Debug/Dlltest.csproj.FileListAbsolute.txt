@@ -1,0 +1,6 @@
+Q:\CAN-Projects\Dlltest\Dlltest\bin\Debug\Dlltest.dll
+Q:\CAN-Projects\Dlltest\Dlltest\bin\Debug\Dlltest.pdb
+Q:\CAN-Projects\Dlltest\Dlltest\obj\Debug\Dlltest.Form1.resources
+Q:\CAN-Projects\Dlltest\Dlltest\obj\Debug\Dlltest.csproj.GenerateResource.Cache
+Q:\CAN-Projects\Dlltest\Dlltest\obj\Debug\Dlltest.dll
+Q:\CAN-Projects\Dlltest\Dlltest\obj\Debug\Dlltest.pdb

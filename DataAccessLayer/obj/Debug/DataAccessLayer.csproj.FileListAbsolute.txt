@@ -1,0 +1,9 @@
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\bin\Debug\ModelLayer.dll
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\bin\Debug\ModelLayer.pdb
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

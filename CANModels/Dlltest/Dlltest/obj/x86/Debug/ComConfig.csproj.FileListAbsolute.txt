@@ -1,0 +1,14 @@
+Q:\CAN-Projects\Dlltest\Dlltest\bin\x86\Debug\Dlltest.dll
+Q:\CAN-Projects\Dlltest\Dlltest\bin\x86\Debug\Dlltest.pdb
+Q:\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.Form1.resources
+Q:\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\ComConfig.csproj.GenerateResource.Cache
+Q:\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.dll
+Q:\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.pdb
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\bin\x86\Debug\Dlltest.dll
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\bin\x86\Debug\Dlltest.pdb
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.Form1.resources
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.dll
+D:\liuyaocong\CAN-Projects\Dlltest\Dlltest\obj\x86\Debug\Dlltest.pdb

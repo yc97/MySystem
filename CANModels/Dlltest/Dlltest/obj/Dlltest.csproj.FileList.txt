@@ -1,0 +1,7 @@
+bin\Debug\Dlltest.dll
+bin\Debug\Dlltest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Dlltest.Form1.resources
+obj\Debug\Dlltest.csproj.GenerateResource.Cache
+obj\Debug\Dlltest.dll
+obj\Debug\Dlltest.pdb

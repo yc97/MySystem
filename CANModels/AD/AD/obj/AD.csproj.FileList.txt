@@ -1,0 +1,12 @@
+bin\Debug\AD.dll
+bin\Debug\AD.pdb
+bin\Debug\Interop.TeeChart.dll
+bin\Debug\AxInterop.TeeChart.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.TeeChart.dll
+obj\Debug\AxInterop.TeeChart.dll
+obj\Debug\AD.csproj.ResolveComReference.cache
+obj\Debug\AD.FormAD.resources
+obj\Debug\AD.csproj.GenerateResource.Cache
+obj\Debug\AD.dll
+obj\Debug\AD.pdb
