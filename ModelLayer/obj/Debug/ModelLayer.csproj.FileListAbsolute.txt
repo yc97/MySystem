@@ -4,3 +4,9 @@ L:\仿真系统\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.dll.lic
 L:\仿真系统\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.dll
 L:\仿真系统\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.pdb
 L:\仿真系统\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+Q:\MySystemProject\MySystem\ModelLayer\bin\Debug\ModelLayer.dll
+Q:\MySystemProject\MySystem\ModelLayer\bin\Debug\ModelLayer.pdb
+Q:\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+Q:\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.dll.licenses
+Q:\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.dll
+Q:\MySystemProject\MySystem\ModelLayer\obj\Debug\ModelLayer.pdb

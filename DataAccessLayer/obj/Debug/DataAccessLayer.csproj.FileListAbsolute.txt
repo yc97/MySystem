@@ -7,3 +7,12 @@ L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLay
 L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
 L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 L:\仿真系统\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+Q:\MySystemProject\MySystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+Q:\MySystemProject\MySystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+Q:\MySystemProject\MySystem\DataAccessLayer\bin\Debug\ModelLayer.dll
+Q:\MySystemProject\MySystem\DataAccessLayer\bin\Debug\ModelLayer.pdb
+Q:\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+Q:\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+Q:\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+Q:\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+Q:\MySystemProject\MySystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

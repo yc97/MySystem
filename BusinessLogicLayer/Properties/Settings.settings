@@ -13,7 +13,7 @@
 &lt;/ArrayOfString&gt;</Value>
     </Setting>
     <Setting Name="lastu" Type="System.String" Scope="User">
-      <Value Profile="(Default)">public</Value>
+      <Value Profile="(Default)" />
     </Setting>
   </Settings>
 </SettingsFile>

@@ -64,7 +64,14 @@ namespace BusinessLogicLayer
             string lastUser = Properties.Settings.Default.lastu;
             dr["user"] = lastUser;
             int lastId = Properties.Settings.Default.u.IndexOf(lastUser);
-            dr["pass"] = ModelLayer.DESEncrypt.Decrypt(Properties.Settings.Default.p[lastId]);
+            if (-1 == lastId) 
+            { 
+                dr["pass"] = ""; 
+            }
+            else
+            { 
+                dr["pass"] = ModelLayer.DESEncrypt.Decrypt(Properties.Settings.Default.p[lastId]); 
+            }
             userDT.Rows.Add(dr);
 
             for (int i = 0; i < Properties.Settings.Default.u.Count; i++) 

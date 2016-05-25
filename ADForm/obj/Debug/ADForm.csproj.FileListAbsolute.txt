@@ -7,3 +7,12 @@ L:\仿真系统\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.dll.licenses
 L:\仿真系统\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.dll
 L:\仿真系统\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.pdb
 L:\仿真系统\MySystemProject\MySystem\ADForm\obj\Debug\CANModels.ADForm.ADForm.resources
+Q:\MySystemProject\MySystem\ADForm\bin\Debug\ADForm.dll
+Q:\MySystemProject\MySystem\ADForm\bin\Debug\ADForm.pdb
+Q:\MySystemProject\MySystem\ADForm\bin\Debug\NationalInstruments.UI.Styles3D.dll
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.csprojResolveAssemblyReference.cache
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\CANModels.ADForm.ADForm.resources
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.csproj.GenerateResource.Cache
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.dll.licenses
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.dll
+Q:\MySystemProject\MySystem\ADForm\obj\Debug\ADForm.pdb
