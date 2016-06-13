@@ -20,3 +20,14 @@ Q:\MySystemProject\MySystem\BusinessLogicLayer\bin\Debug\ModelLayer.pdb
 Q:\MySystemProject\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 Q:\MySystemProject\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 Q:\MySystemProject\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\ModelLayer.dll
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\System.Data.SQLite.dll
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+L:\仿真系统\MySystem\BusinessLogicLayer\bin\Debug\ModelLayer.pdb
+L:\仿真系统\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+L:\仿真系统\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+L:\仿真系统\MySystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

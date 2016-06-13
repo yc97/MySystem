@@ -201,9 +201,17 @@
       <Project>{afd5bc9b-b2bf-4964-95f4-e8eaf091a83d}</Project>
       <Name>BusinessLogicLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CANModels\DA\DA\DA.csproj">
+      <Project>{e4a06408-9308-4fa6-87ec-b10d9537bb03}</Project>
+      <Name>DA</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CANModels\DevConfig\DevConfig.csproj">
       <Project>{026594be-958b-48b4-abf4-712cba7997e8}</Project>
       <Name>DevConfig</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CANModels\DigitalIO\DigitalIO.csproj">
+      <Project>{084308ff-b5f0-4283-b2d8-c9ace58b98e6}</Project>
+      <Name>DigitalIO</Name>
     </ProjectReference>
     <ProjectReference Include="..\CANModels\Dlltest\Dlltest\ComConfig.csproj">
       <Project>{3d339433-ccc3-4d6e-a233-6b585e10f179}</Project>

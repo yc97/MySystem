@@ -25,3 +25,16 @@ L:\仿真系统\MySystemProject\MySystem\CANModels\AD\AD\obj\Debug\AD.csproj.Gen
 L:\仿真系统\MySystemProject\MySystem\CANModels\AD\AD\obj\Debug\AD.dll.licenses
 L:\仿真系统\MySystemProject\MySystem\CANModels\AD\AD\obj\Debug\AD.dll
 L:\仿真系统\MySystemProject\MySystem\CANModels\AD\AD\obj\Debug\AD.pdb
+L:\仿真系统\MySystem\CANModels\AD\AD\bin\Debug\AD.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\bin\Debug\AD.pdb
+L:\仿真系统\MySystem\CANModels\AD\AD\bin\Debug\Interop.TeeChart.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\bin\Debug\AxInterop.TeeChart.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.csprojResolveAssemblyReference.cache
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\Interop.TeeChart.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AxInterop.TeeChart.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.csproj.ResolveComReference.cache
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.FormAD.resources
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.csproj.GenerateResource.Cache
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.dll.licenses
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.dll
+L:\仿真系统\MySystem\CANModels\AD\AD\obj\Debug\AD.pdb

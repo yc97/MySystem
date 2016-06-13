@@ -345,5 +345,27 @@ namespace UserInterface
 
         }
 
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+
+            DA.FormDA fm = new DA.FormDA();
+            fm.FormBorderStyle = FormBorderStyle.None; // 取消窗体边框
+            fm.TopLevel = false; // 取消最顶层窗体
+            fm.Dock = DockStyle.Fill;
+            Ctab_MainTab.PageAdd(fm, -10, "DA输出", tabPageList);
+            fm.Show();
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+
+            DigitalIO.FormDIO fm = new DigitalIO.FormDIO();
+            fm.FormBorderStyle = FormBorderStyle.None; // 取消窗体边框
+            fm.TopLevel = false; // 取消最顶层窗体
+            fm.Dock = DockStyle.Fill;
+            Ctab_MainTab.PageAdd(fm, -10, "DO", tabPageList);
+            fm.Show();
+        }
+
     }
 }
